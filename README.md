@@ -3,7 +3,16 @@
 Pr. Manolis Koubarakis courses material - Dept. of Informatics of the University of Athens.
 
 
-## Deep Learning for NLP (YS19)
+
+## __K08:__ Data Structures
+
+Contains:
+
+- Labs
+- Slides
+
+
+## __YS19:__ Deep Learning for NLP
 
 Contains:
 
@@ -11,5 +20,4 @@ Contains:
 - Feed forward NNs
 - RNNs
 - BERT
-
 
