@@ -32,8 +32,8 @@ void visit(BSTNode* node) {
 // De-allocating all the memory of the tree
 void destroy(BSTNode* node) {
     if (node != NULL) {
-        freeTree(node->left);
-        freeTree(node->right);
+        destroy(node->left);
+        destroy(node->right);
         free(node);
     }
 }

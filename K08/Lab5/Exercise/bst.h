@@ -13,6 +13,7 @@ typedef void (*Visit)(BSTNode* node);
 void visit(BSTNode* node);
 BSTNode* create_node(int data);
 BSTNode* insert(BSTNode* root, int data);
+void destroy(BSTNode* node);
 
 /* -------------------------- */
 /* FUNCTIONS FOR LAB EXERCISE */

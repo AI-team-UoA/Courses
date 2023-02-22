@@ -3,7 +3,7 @@
 #include "bst.h"
 
 // Including the acutest.h library
-#include "../../acutest/acutest.h"
+#include "acutest/acutest.h"
 
 // Test inserting BSTNodes into the binary search tree
 void test_insert(void) {
