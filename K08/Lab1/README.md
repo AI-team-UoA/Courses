@@ -48,3 +48,11 @@ Eίτε
 
 ## 7. Παράδοση
 Πρέπει να παραδώσετε το εργαστήριο κάνοντας `commit` και `push` στο github repository που δημιουργήσατε προηγουμένως.
+
+- [ ] `git status `: Ποια είναι η κατάσταση στο git με τις αλλαγές που έχετε κάνει
+- [ ] `git add {files changed}`: Προσθέση των αρχείων που έχουν γίνει modified
+- [ ] `git status`: Αν έγινε σωστά η προηγούμενη εντολή πρέπει να δείτε το όνομα του αρχείο πράσινο
+- [ ] `git commit -m "finished lab-1 exercise"`: Commit στο τοπικό repo
+- [ ] `git status`: Check ότι έγινε σωστά το commit
+- [ ] `git push`: Ανέβασμα των τοπικών commits στο repote repo
+- [ ] `git log`: Θα πρέπει να εμφανιστεί το commit σας στην λίστα με τα log!
