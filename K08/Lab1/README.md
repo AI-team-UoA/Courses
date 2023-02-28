@@ -8,7 +8,6 @@
 ## 2. Github
 - Δημιουργήστε λογαριασμό στο https://github.com/.
 - Επιλέξτε στο sdiXXXXXXX για την αντιστοίχιση με το λογαριασμό σας (ΠΡΟΣΟΧΗ!).
-- Μπείτε στο link https://classroom.github.com/a/OWDqtM9K
 - Repo name:  2023-lab1
 
 ## 3. Κώδικας του εργαστηρίου
