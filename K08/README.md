@@ -12,6 +12,6 @@
 <br>
 
 
-__Ιστοσελίδα μαθήματος:__ [https://cgi.di.uoa.gr/~k08/lab.html](https://cgi.di.uoa.gr/~k08/lab.html)
+__Ιστοσελίδα μαθήματος:__ [https://cgi.di.uoa.gr/~k08/lab.html](https://cgi.di.uoa.gr/~k08)
 
 __Yπεύθυνος καθηγητής:__ Μανόλης Κουμπαράκης
