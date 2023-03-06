@@ -1,5 +1,8 @@
 # K08 Labs
 
+__Ιστοσελίδα εργαστηρίων μαθήματος:__ [https://cgi.di.uoa.gr/~k08/lab.html](https://cgi.di.uoa.gr/~k08/lab.html)
+
+
 ## Περιεχόμενα
 
 ### `Lab 1`: Εισαγωγικό - C recap/Git/Unix
