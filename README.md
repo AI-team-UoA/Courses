@@ -6,7 +6,7 @@ Pr. Manolis Koubarakis courses material - Dept. of Informatics of the University
 
 ## __K08:__ Data Structures
 
-Contains all the Labs.
+Contains material for the labs.
 
 ## __YS19:__ Deep Learning for NLP
 
