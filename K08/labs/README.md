@@ -2,24 +2,25 @@
 
 __Ιστοσελίδα εργαστηρίων μαθήματος:__ [https://cgi.di.uoa.gr/~k08/lab.html](https://cgi.di.uoa.gr/~k08/lab.html)
 
-
 ## Περιεχόμενα
 
 ### `Lab 1`: Εισαγωγικό - C recap/Git/Unix
 
-
 ### `Lab 2`: Modules/Unit  tests/Makefiles & Linked-lists
 
+### `Lab 3`: Vectors
 
-### `Lab 3`: Valgrind
-
-
-### `Lab 4`: Vectors
-
+### `Lab 4`: Valgrind
 
 ### `Lab 5`: Binary Search Trees
 
-### ...
+### `Lab 6`: AVL Trees
+
+### `Lab 7`: [to be anounced]
+
+### `Lab 8`: Hashtables
+
+### `Lab 9`: Probabilistic DS - Bloom Filter
 
 ### `Lab 10`: Generic Data Structures
 
@@ -31,7 +32,7 @@ __Ιστοσελίδα εργαστηρίων μαθήματος:__ [https://cgi
 - Κωνσταντίνος Νικολέτος   [k.nikoletos at di.uoa.gr] - Εργαστήριο Τρίτης
 - Κώστας Πλας   [kplas at di.uoa.gr] - Εργαστήριο Τετάρτης
 
-*ΣΗΜΑΝΤΙΚΟ:* Όλες οι ερωτήσεις σχετικά με τα εργαστήρια πρέπει να απευθύνονται στους ανωτέρω.
+⁉️ Όλες οι ερωτήσεις σχετικά με τα εργαστήρια πρέπει να απευθύνονται στους ανωτέρω. Εάν είναι κάποια ερώτηση σχετική με το υλικό ενθαρρύνεται να την ανεβάζετε στο Piazza του μαθήματος στο directory `labs`. Διαφορετικά, για τεχνικά ζητήματα, καλό είναι να στέλνετε email στον υπεύθυνο του εργαστηρίου που είστε, με cc στο [miltos at di.uoa.gr].
 
 ## Βοηθοί Εργαστηρίων 2023
 
