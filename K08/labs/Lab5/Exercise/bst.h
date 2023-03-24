@@ -3,10 +3,10 @@
 
 // Define a node in the binary search tree
 typedef struct BSTNode BSTNode;
-typedef struct BSTNode {
+struct BSTNode {
     int data;
     BSTNode *left, *right;
-} BSTNode;
+};
 
 // Function pointer for visiting nodes during traversal
 typedef void (*Visit)(BSTNode* node);

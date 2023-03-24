@@ -24,7 +24,7 @@ BSTNode* insert(BSTNode* root, int data) {
     return root;
 }
 
-// Ignore this function
+// QAUTION: visit is a method that it is passed as input in other methods
 void visit(BSTNode* node) {
     printf("%d ", node->data);
 }
@@ -42,7 +42,7 @@ void destroy(BSTNode* node) {
 /* FUNCTIONS FOR LAB EXERCISE */
 /* -------------------------- */
 
-// Delete a node from the binary search tree
+// Delete a node from the binary search tree. Three conditions.
 BSTNode* delete(BSTNode* root, int data) {
     /* EXERCISE */
 }
