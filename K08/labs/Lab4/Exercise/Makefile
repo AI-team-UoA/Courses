@@ -12,11 +12,11 @@ CFLAGS = -g
 LDFLAGS += -lm
 
 # set the name of the executable file to compile here
-PROGRAM = main
+PROGRAM = mem_errors
 LAB = test
 
-OBJS = main.o vector.o
-LAB_OBJS = vector.o test_vector.o
+OBJS = mem_errors.o uninitialized.o free_errors.o leaks.o invalid_memory_rw.o
+LAB_OBJS = faulty_stack.o test_faulty_stack.o
 
 $(PROGRAM): $(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) $(LDFLAGS) -o $(PROGRAM)
