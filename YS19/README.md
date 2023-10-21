@@ -1,6 +1,6 @@
 <div align="center">
 <br>
-<img align="left" src="https://github.com/AI-team-UoA/Courses/blob/main/YS19/ys19-logo-1.png?raw=true" alt="Κ08" width="450"/>
+<img align="left" src="https://github.com/AI-team-UoA/Courses/blob/main/YS19/ys19-logo-1.png?raw=true" alt="Κ08" width="350"/>
 </div>
 
 # Deep Learning for NLP Course (YS19)
